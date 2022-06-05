@@ -101,7 +101,7 @@ a:hover {
     font-size: 1.4rem;
 }
 .text-info{
-    padding: 15px 15px;
+    padding: 10px 10px;
     margin: 2em 1em;
     margin-left: 50px;
 }
@@ -110,20 +110,14 @@ a:hover {
     margin-left: 2rem;
     margin-top: 2rem;
     font-size: 2rem;
-
 }
 
 .form-right{
-    /* flex-wrap:wrap; */
-    /* flex-shrink: 0 */
-    /* clear: left;
-    width: 0; */
-    /* flex-wrap: wrap; */
-    /* flex: 0 0 100%; */
-    /* flex-basis: 100%; */
+    margin-top: 20px;
+    padding: 10px 5px;
     margin-left: 30px;
-    display: flex;
-    flex-direction: column;
+    font-size: 1.5rem;
+    
 }
 
 .container-end{
